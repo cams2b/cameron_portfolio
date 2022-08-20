@@ -37,9 +37,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: "google-scholar" # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=Pi-9PuwAAAAJ&hl=en&oi=ao
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=Pi-9PuwAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/cams2b
